@@ -6,8 +6,8 @@
 
 |                              server                               |                              server                               
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img style="width: 150px;" src="https://github.com/seoyeon0103.png" /> | <img style="width: 150px;" src="https://github.com/seyeon.png" /> | 
-|                [임서연](https://github.com/seoyeon0103)                |                [최세연](https://github.com/seyeon)                |  
+| <img style="width: 150px;" src="https://github.com/seoyeon0103.png" /> | <img style="width: 150px;" src="https://github.com/seyeon22.png" /> | 
+|                [임서연](https://github.com/seoyeon0103)                |                [최세연](https://github.com/seyeon22)                |  
 </div>
 
 <br/>
